@@ -7,4 +7,4 @@
 
 # 🔭 I’m currently working on an automated trading algorithm.
 # 🌱 I’m currently learning react and node.js
--->
+
